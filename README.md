@@ -23,6 +23,8 @@ p mewakili paste ( paste )
 
 w mewakili word ( kata di depan )
 
+t mewakili tag
+
 b mewakili begin ( awal karakter dalam kata )
 
 e mewakili end ( akhir karakter dalam kata )
@@ -75,6 +77,10 @@ L mewakili low
 
 
 csw'" mewakili change surround words ' to "
+
+ci' mewakili change inner '
+
+cit mewakili change inner tag
 
 
 / mewakili search pattern
