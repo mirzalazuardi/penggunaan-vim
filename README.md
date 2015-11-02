@@ -39,7 +39,11 @@ dd mewakili delete this line
 
 c3w mewakili change 3 words
 
+c3b mewakili change 3 words ( backward )
+
 d3w mewakili delete 3 words
+
+d3b mewakili delete 3 words ( backward )
 
 d3} mewakili delete next paragraph
 
