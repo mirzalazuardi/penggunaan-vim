@@ -29,8 +29,6 @@ e mewakili end ( akhir karakter dalam kata )
 
 I mewakili insert The First character of this line
 
-0 mewakili insert The First character of this line ( including whitespace )
-
 A mewakili append The End character of this line
 
 
@@ -59,9 +57,11 @@ dff mewakili delete find f
 
 \\\e mewakili cursor to end ( easymotion )
 
-\\\cc mewakili comment this
+\\\f mewakili cursor to founded char ( easymotion )
 
-\\\cu mewakili uncomment this
+\\\cc mewakili comment this ( NERDcommenter )
+
+\\\cu mewakili uncomment this ( NERDcommenter )
 
 ctrl-u mewakili Up
 
