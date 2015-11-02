@@ -23,8 +23,6 @@ p mewakili paste ( paste )
 
 w mewakili word ( kata di depan )
 
-t mewakili tag
-
 b mewakili begin ( awal karakter dalam kata )
 
 e mewakili end ( akhir karakter dalam kata )
